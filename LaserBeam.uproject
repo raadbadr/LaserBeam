@@ -24,15 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Avalanche",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Mac"
-			]
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
@@ -46,6 +37,10 @@
 		},
 		{
 			"Name": "MotionTrajectory",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicMaterial",
 			"Enabled": true
 		}
 	]
