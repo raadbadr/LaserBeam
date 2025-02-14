@@ -42,6 +42,10 @@
 		{
 			"Name": "DynamicMaterial",
 			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
 		}
 	]
 }
